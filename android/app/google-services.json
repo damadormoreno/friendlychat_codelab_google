@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026164401574",
+    "firebase_url": "https://friendly-chat-flutter-2fdbd.firebaseio.com",
+    "project_id": "friendly-chat-flutter-2fdbd",
+    "storage_bucket": "friendly-chat-flutter-2fdbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026164401574:android:4d04eed958046a21",
+        "android_client_info": {
+          "package_name": "denebappsandro.codelabgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026164401574-04di3l0ek2u8vbimad9hroj93dv2248a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAUTPSyJ7q8HGMmax3ahXRFNisNOpc3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
